@@ -1,0 +1,11 @@
+n=int(input())
+o=[]
+z=[]
+while n>0:
+    f=input()
+    n=n-1
+    if 'True' in f:
+        o.append(f)
+    if 'False' in f:
+        z.append(f)
+print('out',len(o),len(z))
