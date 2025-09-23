@@ -1,1 +1,16 @@
-# lab_01
+<h1>лаборторная работа<h1>
+<h2>номер 1<h2>
+<img width="2818" height="1366" alt="src01 greeting" src="https://github.com/user-attachments/assets/4b4812e3-07b7-402d-9068-d270a7d5c2ee" />
+<h2>номер 2<h2>
+<img width="2739" height="1346" alt="src02_sum_avg" src="https://github.com/user-attachments/assets/504062a3-eb3d-41d0-a303-bb7db312239f" />
+<h2>номер 3<h2>
+<img width="2838" height="1080" alt="src03_discount_vat" src="https://github.com/user-attachments/assets/4987a917-7a4b-47b5-9976-81861067af31" />
+<h2>номер 4<h2>
+<img width="2317" height="850" alt="src04_minutes_to_hhmm" src="https://github.com/user-attachments/assets/4c1f18a1-975e-44d2-9049-ed18fa858ead" />
+<h2>номер 5<h2>
+<img width="2254" height="851" alt="src05_initials_and_len" src="https://github.com/user-attachments/assets/2b74de85-95a7-412f-afd3-d45d6e478d96" />
+<h2>номер 6<h2>
+<img width="2536" height="1315" alt="6" src="https://github.com/user-attachments/assets/d6381491-7563-4061-919f-19f6936733bd" />
+
+
+
