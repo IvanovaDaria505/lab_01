@@ -1,8 +1,10 @@
 # Лаборторная работа
 ## Номер 1
 <img width="2818" height="1366" alt="src01 greeting" src="https://github.com/user-attachments/assets/4b4812e3-07b7-402d-9068-d270a7d5c2ee" />
+
 ## Номер 2
 <img width="2739" height="1346" alt="src02_sum_avg" src="https://github.com/user-attachments/assets/504062a3-eb3d-41d0-a303-bb7db312239f" />
+
 ## Номер 3
 <img width="2838" height="1080" alt="src03_discount_vat" src="https://github.com/user-attachments/assets/4987a917-7a4b-47b5-9976-81861067af31" />
 ## Номер 4
